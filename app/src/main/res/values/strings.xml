@@ -3,10 +3,12 @@
 
     <string name="true_button">True</string>
     <string name="false_button">False</string>
-    <string name="initial_score">Score 0/13</string>
+    <string name="initial_score">Score</string>
     <string name="current_score">Score</string>
     <string name="final_score">Quiz finished. Your final score is</string>
-
+    <string name="result_dialog_title">Your have finished!</string>
+    <string name="result_dialog_retake">Retake quiz</string>
+    <string name="result_dialog_exit">Close</string>
 
     <string name="incorrect_toast">Wrong!</string>
     <string name="correct_toast">You got it!</string>
